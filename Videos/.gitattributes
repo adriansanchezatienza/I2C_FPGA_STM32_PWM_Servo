@@ -1,0 +1,4 @@
+FINAL_Project.mp4 filter=lfs diff=lfs merge=lfs -text
+I2C+PWM_testing.mp4 filter=lfs diff=lfs merge=lfs -text
+I2C_testing.mp4 filter=lfs diff=lfs merge=lfs -text
+PWM_testing.mp4 filter=lfs diff=lfs merge=lfs -text
