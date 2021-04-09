@@ -1,4 +1,5 @@
 # Objetivos del proyecto.
+`Puede encontrar los videos de la verificación de la comunicación I2C en la carpeta "Videos"`
 ## Implementación de protocolo de comunicación serie entre FPGA y microcontrolador STM.
 El proyecto centrará su funcionamiento en un mecanismo de balanceo, es decir, según una determinada inclinación de la MPU (gobernada por el microcontrolador) poder corregir esa inclinación moviendo un servo (gobernado por la FPGA). Por lo tanto, los objetivos de este proyecto serán: 
 ***
